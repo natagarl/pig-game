@@ -8,4 +8,4 @@ A game for two players. In order to win a player need to reach 100 points. Rolli
 
 ## How it was made
 
-_HTML_ and _CSS_ code was written by the teacher. I wrote _JavaScript_ code along with video explanations.
+_HTML_ and _CSS_ code was written by the teacher. I wrote _JavaScript_ code while watching video explanations.
